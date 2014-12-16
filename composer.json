@@ -1,0 +1,24 @@
+{
+  "name": "rime-admin",
+  "description": "admin control panel and dashboard that's based on AdminLTE",
+  "homepage": "http://emz.pont-entente.org/rime-admin/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "web"
+  ],
+  "authors": [
+    {
+      "name": "Arnaud JEAN-CHARLES",
+      "email": "a.jean-charles@valabre.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/aJClibre/rime-admin/"
+  }
+}
